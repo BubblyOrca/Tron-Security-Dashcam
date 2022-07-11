@@ -15,7 +15,7 @@ On May 6th, 2019, the Tron Foundation reported a vulnerability that could have r
 A hacker would have to deploy a request to ```/wallet/deploycontract``` to write to the contract and then overload the traffic on the Tron blockchain.
 <!-- image -->
 <p align="center">
-  <img src="tron-attack.png" alt="" width="400" class="center" style="margin-left: 100px;"/>
+  <img src="tron-deploycontract.png" alt="" width="400" class="center" style="margin-left: 100px;"/>
 </p>
 
 See full contract deployment code here :star: :
