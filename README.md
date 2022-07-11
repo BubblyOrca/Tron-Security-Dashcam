@@ -1,4 +1,4 @@
-# Tron Security Dashcam | Tron Grand Hackathon 2022
+## Tron Security Dashcam | Tron Grand Hackathon 2022
 The Tron Security Dashkit is a start-of-the-art risk collection of dashboards that monitors fishy activity that happens on-chain, &amp; also notifies Tron Security experts about what's happening in Web3.
 
 <!-- image -->
@@ -10,7 +10,7 @@ The Tron Security Dashkit is a start-of-the-art risk collection of dashboards th
 Security in Web3 has been an uphill battle to Mass Adoption. Most blockchain experts would agree that the risky nature of blockchain projects is obscuring the road to mass adoption. A lot of individuals already fear the high volatility of crypto assets, but with an added layer of hacks, scams, exploits, and de-adversarial attacks that result in rekts and rugs, we are long ways from a risk-averse journey to mass adoption.
 
 <b> Hack History </b> </br>
-On May 6th, 2019, the Tron Foundation reported a vulnerability that could have rendered the Tron blockchain useless :surprised: . With a single machine, an attacker could have deployed a DDos Attack (distributed denial of service attack) to 51%-100% of the Super Representative (SR) node. The SR is a block producer on the Tron Network similar to that of a validator. If deployed, it would approximately take 1000-10000 requests to overload the Tron blockchain and crash the network making it inoperable. We want to prevent catastrophes like this from happening, not just apply reactive solutions like we see propagate much more in the current Web3 risk landscape. 
+On May 6th, 2019, the Tron Foundation reported a vulnerability that could have rendered the Tron blockchain useless 😲. With a single machine, an attacker could have deployed a DDos Attack (distributed denial of service attack) to 51%-100% of the Super Representative (SR) node. The SR is a block producer on the Tron Network similar to that of a validator. If deployed, it would approximately take 1000-10000 requests to overload the Tron blockchain and crash the network making it inoperable. We want to prevent catastrophes like this from happening, not just apply reactive solutions like we see propagate much more in the current Web3 risk landscape. 
 
 A hacker would have to deploy a request to ```/wallet/deploycontract``` to write to the contract and then overload the traffic on the Tron blockchain.
 <!-- image -->
