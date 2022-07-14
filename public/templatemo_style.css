@@ -1,0 +1,116 @@
+/* Credit: http://www.templatemo.com/ */
+body {
+margin:0;
+padding:0;
+line-height: 1.5em;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 11px;
+background: #666666;
+}
+
+#templatemo_container {
+width: 800px;
+margin: auto;
+background: #FFFFFF;
+}
+#templatemo_header {
+height: 140px;
+background: url(images/templatemo_header.jpg) no-repeat;
+}
+#templatemo_content {
+width: 800px;
+}
+#templatemo_left_column {
+float: left;
+width: 550px;
+min-height: 400px;
+}
+#templatemo_right_column {
+background: #EEEEEE;
+float: left;
+width: 250px;
+min-height: 400px;
+}
+#templatemo_footer {
+clear: left;
+background: #000000;
+padding: 5px;
+color: #FFFFFF;
+}
+#templatemo_footer a {
+color: #FFFFFF;
+}
+#templatemo_site_title {
+padding-top: 50px;
+padding-left: 60px;
+font-size: 24px;
+font-weight: bold;
+}
+#templatemo_site_slogan {
+padding-top: 10px;
+padding-left: 60px;
+font-size: 12px;
+font-weight: bold;
+}
+
+.section_box {
+margin: 10px;
+padding: 10px;
+background: #660000;
+color: #FFFFFF;
+}
+.section_box2 {
+margin-top: 10px;
+padding: 10px;
+background: #666666;
+color: #FFFFFF;
+}
+.section_box a, .section_box2 a {
+color: #FFFF99;
+}
+.text_area {
+margin: 10px;
+}
+.title {
+padding-bottom: 10px;
+font-size: 14px;
+font-weight: bold;
+}
+.subtitle {
+padding-bottom: 10px;
+font-size: 12px;
+font-weight: bold;
+}
+
+/* Menu Credits: Dynamic Drive CSS Library */
+/* URL: http://www.dynamicdrive.com/style/ */
+.solidblockmenu{
+margin: 0;
+padding: 0;
+float: left;
+font: bold 13px Arial;
+width: 100%;
+border: 1px solid #FFFFFF;
+border-width: 1px 0;
+background: black url(images/blockdefault.gif) center center repeat-x;
+}
+.solidblockmenu li{
+display: inline;
+}
+.solidblockmenu li a{
+float: left;
+color: white;
+padding: 9px 11px;
+text-decoration: none;
+border-right: 1px solid white;
+}
+.solidblockmenu li a:visited{
+color: white;
+}
+.solidblockmenu li a:hover, .solidblockmenu li .current{
+color: white;
+background: transparent url(images/blockactive.gif) center center repeat-x;
+}
+p.iepara{
+padding-top: 1em;
+}
