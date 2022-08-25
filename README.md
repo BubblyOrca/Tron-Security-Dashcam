@@ -1,6 +1,8 @@
 ## Tron Security Dashcam | Tron Grand Hackathon 2022
 The Tron Security Dashcam is a novel collection of dashboards that display result monitors fishy activity that happens on-chain, &amp; also notifies Tron Security experts about what's happening in Web3.
 
+Update: We Won Season 2 of the TRON Grand Hackathon! We got [3rd Place](https://www.marketwatch.com/press-release/tron-grand-hackathon-2022-season-2-project-winners-announced-2022-08-17) in the DeFi category in TRON Grand Hackathon.
+
 <!-- image -->
 <p align="center">
   <img src="logo.png" alt="" width="400" class="center" style="margin-left: 100px;"/>
