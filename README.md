@@ -37,5 +37,17 @@ curl --request POST \
 <b> Introducing TSD </b> </br>
 The Tron Security Dashcam serves as a product just about every blockchain will need to surveill its blockchain, including any off-chain vulnerabilities such as Discords, Twitters, servers, etc., that could act as potential points of failure for the blockchain and it's tokens. Decentralized Finance is the most risky sub-sector of crypto being that smart contracts are the main exploitable attack vector sought after by hackers. Similar to how a dashcam in an individual's car records accidents that occur while the driver is present and absent, the TSD serves as a surveillance mechanism to track each PR, smart contract alteration, and just about any permutation on-chain that would threaten the health of the Tron blockchain.
 
-<b> Future of Work </b> 
+<b> How we built it </b> </br>
+For the front-end we used javascript, html, css, and WebFlow to bring the stack together. Users are able to toggle the data visualizations at the bottom of the dashboard. For analysis and data visualizations we used Python. We also launched a STORJ instance to decentralize our data used for the web application.
 
+<b> Challenges we ran into </b> </br>
+The biggest challenge was finding open-source relevant attack data provided by TRONSCAN. The toughest part was finding more intricate data that would contribute to the presence of a vulnerability. I’m sure if we were afforded this data the data products we created would be more dynamic and insightful. We were disappointed that we were able to use Covalent API because the Tron chain is not compatible with their platform but we were about to defeat that hurdle by creating an API Key.
+
+<b> Accomplishments that we're proud of </b> </br>
+Plugging the back-end and front-end together Launching the web app Deploying the Tron API Tracking the growth of Tron holders
+
+<b> What we learned </b> </br>
+TRONSCAN is very different from Etherscan. Typically with blockchain scanner systems with a plethora of raw data is a blockchain data scientist's greatest wish. However, the TRONSCAN allows access to download .csv files instantly as well as real-time images of on-chain event data. We also learned that creating a security product requires security and our ideas will be addressed in future work.
+
+<b> Future of Work </b> 
+In the future, we plan to make the bridge more dynamic and interoperable. We worked with the data that was open-source and was relevant to the potential that the Tron blockchain had to display a vulnerability. Also, increasing the number of dashboards from 4 to 16 would be a next step in making TSD a reliant product.
