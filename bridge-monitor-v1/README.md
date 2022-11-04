@@ -1,5 +1,5 @@
 
-# Tron Bridge Monitor
+## Tron Bridge Monitor
 ---
 ## Inspiration
 In Tron Grand Hackathon Season 2 the Rektify AI team submitted the Tron Security Dashcam, a novel collection of dashboards that display result monitors fishy activity that happens on-chain, & also notifies Tron Security experts about what's happening in Web3. As promised in the future work section of the product we focused extensively on optimizing the Tron bridge monitoring system. Bridges have been the source of more than 75% of the funds lost in hacks this year in cryptocurrency. The need for a threat identification system with a continuous nature is needed so that cross-chain bridge architecture to scale. Since the Tron Blockchain interacts with service networks for cross-chain transactions our focus for this system has been TronPad.
