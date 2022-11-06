@@ -6,7 +6,7 @@ In Tron Grand Hackathon Season 2 the Rektify AI team submitted the Tron Security
 
 <!-- image -->
 <p align="center">
-  <img src="Tron-monitor.png" alt="" width="400" class="center" style="margin-left: 100px;"/>
+  <img src="monitor.png" alt="" width="400" class="center" style="margin-left: 100px;"/>
 </p>
 
 Bridges have been the source of more than 75% of the funds lost in hacks this year in cryptocurrency. The need for a threat identification system with a continuous nature is needed so that cross-chain bridge architecture to scale. Since the Tron Blockchain interacts with several networks for cross-chain transactions our focus for this system has been TronPad.
