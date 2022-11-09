@@ -5,7 +5,7 @@
 
 <!-- image -->
 <p align="center">
-  <img src="deploy.png" alt="" width="400" class="center" style="margin-left: 100px;"/>
+  <img src="deploy.png" alt="" width="700" class="center" style="margin-left: 100px;"/>
 </p>
 
 ---
