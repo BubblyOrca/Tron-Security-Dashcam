@@ -1,7 +1,7 @@
 
 ## Tron Bridge Monitor
 
-<b> Live on Testnet: </b>
+<b> Live on Shasta Testnet: </b>
 
 <!-- image -->
 <p align="center">
